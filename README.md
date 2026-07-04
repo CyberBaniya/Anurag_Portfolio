@@ -33,22 +33,28 @@
 ---
 
 ## 🚀 Introduction
-
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
-
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
-
+This repository contains my personal portfolio website built with React, Vite, and Tailwind CSS. It showcases my technical skills, featured projects, and experience in Java Full Stack Development and Generative AI.
 ---
 
 ## ⚙️ Tech Stack
 
-* **React** – Component-based UI development
-* **Vite** – Lightning-fast build tool
-* **TailwindCSS** – Utility-first CSS for styling
-* **Lucide Icons** – Clean and beautiful icon pack
-* **Radix UI** – Accessible component primitives
-* **TypeScript (optional)** – Type safety and tooling
-* **GitHub & Vercel** – Deployment
+* **React.js** – Modern component-based frontend development
+* **Vite** – Fast development server and optimized production builds
+* **Tailwind CSS** – Utility-first CSS framework for responsive UI design
+* **Java** – Core programming language for backend development
+* **Spring Boot** – Enterprise-grade backend application development
+* **Spring MVC & Spring Data JPA** – Web application architecture and database integration
+* **Python** – AI, Machine Learning, and automation development
+* **LangChain & LangGraph** – Building LLM-powered Generative AI applications
+* **OpenAI API** – AI-powered intelligent application integration
+* **Machine Learning & Deep Learning** – Developing intelligent AI solutions
+* **MySQL, Oracle & MongoDB** – Relational and NoSQL database management
+* **Git & GitHub** – Version control and collaborative development
+* **Postman** – REST API testing and development
+* **Spring Tool Suite (STS)** – Spring application development environment
+* **VS Code** – Primary code editor
+* **Docker** – Containerization and application deployment
+* **Vercel** – Portfolio deployment and hosting
 
 ---
 
